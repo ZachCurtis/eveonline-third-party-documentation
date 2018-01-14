@@ -18,7 +18,7 @@ Main links for the application:
 
 ## [Desmont McCallock](https://forums.eveonline.com/profile/Desmont%20McCallock)
 
-[Conversion Tool](https://forums.eveonline.com/default.aspx?g=posts&m=6168357)
+[Conversion Tool](https://forums-archive.eveonline.com/default.aspx?g=posts&m=6168357#post6168357)
 
 Desmont provides a tool to run on Windows, to merge the other data back into the SQL Server SDE, and to convert into a variety of formats, either at full database, or individual tables.
 
